@@ -54,7 +54,7 @@ class Packager:
           # build an interposer
           interposer_chip = CMOS_logic_chiplet(interposer_type, interposer_node, interposer_area, is_interposer=True, verbose=False)
           interposer_chip.set_cpa_scaling_factor(scaling_factor)
-          interposer_carbon = interposer_chip.get_manufacturing_carbon(ci_fab, verbose=verbose)
+          interposer_carbon = interposer_chip.get_manufacturing_carbon(ci_fab, verbose=False)
     
               
           if self.package_type == "3D":

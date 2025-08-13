@@ -1,1 +1,0 @@
-{    "_comment": "tech is tenchonolgy node, area in cm2",        "name": "A100",    "type": "electric",    "chiplets": [        {         "type": "cmos-logic",         "tech": 7,         "area": 4.52,         "_comment": "inference area only"        }    ],        "package": "monolithic"}
