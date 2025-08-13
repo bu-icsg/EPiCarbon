@@ -17,6 +17,7 @@ EPiCarbon is a Python-based tool for estimating the carbon footprint of electro-
 
 3. Install the required dependencies:
    ```bash
+   pip install --upgrade pip		# Optional
    pip install -r requirements.txt
    ```
 
