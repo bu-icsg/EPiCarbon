@@ -130,7 +130,8 @@ EPiCarbon can be easily extended to support a custom chiplet.
 
 ## Publications
 
-To be updated.
+- Fayza F, Demirkiran C, Papa Rao S, Bunandar D, Gupta U, Joshi A. EPiCarbon: A Carbon Modeling Tool for Electro-Photonic Accelerators. ICCAD 2025 (https://bu-icsg.github.io/publications/2025/Fayza_ICCAD_2025.pdf)
+- Fayza F, Demirkiran C, Papa Rao S, Bunandar D, Gupta U, Joshi A. Photonics for sustainable AI. Communications Physics. 2025 Oct 14;8(1):403. (https://www.nature.com/articles/s42005-025-02300-0)
 
 ## Contact
 
